@@ -4,7 +4,7 @@ Welcome to my MovieTheater project! Please refer to: Movie Theater Seating Chall
 <h3>Assumptions</h3><ol>
 <li>I am designing an API to be used in a software for theater employees at the ticket booth.</li>
 <li>The priority is to ensure the correctness of processing reservation requests and enforcing social distancing policies.</li>
-<li>Input file is in correct format in rows of "R#### n"</li>
+<li>Input file is in correct format</li>
 </ol>
 
 <h3>Build Instructions</h3>
