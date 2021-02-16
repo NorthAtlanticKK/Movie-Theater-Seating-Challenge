@@ -7,23 +7,28 @@ Welcome to my MovieTheater project! Please refer to: Movie Theater Seating Chall
 3. Input file is in correct format in rows of "R#### n"
 
 <h3>Build Instructions</h3>
-1. Unzip MovieTheater.zip
-2. Download IntelliJ IDEA
-3. Open IntelliJ, select open folder
-4. Select MovieTheater directory and click open
-5. IntelliJ will automatically build the project
+<ol>
+<li>Unzip MovieTheater.zip</li>
+<li>Download IntelliJ IDEA</li>
+<li>Open IntelliJ, select open folder</li>
+<li>Select MovieTheater directory and click open</li>
+<li>IntelliJ will automatically build the project</li>
+</ol>
 
 <h3>Executing Tests</h3>
-1. Open MovieTheaterClient in IntelliJ IDEA
-2. You should see 2 green triangles by the line numbers.
-3. Left click on any of them
-4. Select "Run MovieTheaterClient.main()"
-5. You should see the System output at the bottom of IntelliJ
+<ol>
+<li>Open MovieTheaterClient in IntelliJ IDEA</li>
+<li>You should see 2 green triangles by the line numbers.</li>
+<li>Left click on any of them</li>
+<li>Select "Run MovieTheaterClient.main()"</li>
+<li>You should see the System output at the bottom of IntelliJ</li>
+</ol>
 
 Test scripts are all in the testScripts directory. Feel free to add more tests in txt format!
 
 <h3>Future Improvement Ideas</h3>
 Additional Functionalities
-1. Reservation lookup
-2. Cancel reservation -> may require different algorithm / data structures for social distancing.
-3. 
+<ol>
+<li>Reservation lookup</li>
+<li>Cancel reservation -> may require different algorithm / data structures for social distancing.</li>
+</ol>
