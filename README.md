@@ -1,10 +1,11 @@
 <h1>MovieTheater</h1>
 Welcome to my MovieTheater project! Please refer to: Movie Theater Seating Challenge - 2021.pdf for the project prompt.
 
-<h3>Assumptions</h3>
-1. I am designing an API to be used in a software for theater employees at the ticket booth.
-2. The priority is to ensure the correctness of processing reservation requests and enforcing social distancing policies.
-3. Input file is in correct format in rows of "R#### n"
+<h3>Assumptions</h3><ol>
+<li>I am designing an API to be used in a software for theater employees at the ticket booth.</li>
+<li>The priority is to ensure the correctness of processing reservation requests and enforcing social distancing policies.</li>
+<li>Input file is in correct format in rows of "R#### n"</li>
+</ol>
 
 <h3>Build Instructions</h3>
 <ol>
